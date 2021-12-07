@@ -6,5 +6,5 @@ body {
 #hole-Background {
     background:rgb(0, 0, 0);
     width:100vw;
-    height:calc(100vh - 50px);
+    height:calc(100vh - 75px);
 }
