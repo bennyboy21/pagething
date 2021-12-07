@@ -1,0 +1,10 @@
+body {
+    background:white;
+    margin: 0px;
+}
+
+#hole-Background {
+    background:rgb(0, 0, 0);
+    width:100vw;
+    height:calc(100vh - 50px);
+}
